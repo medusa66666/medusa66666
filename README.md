@@ -32,10 +32,11 @@
   </a>
 </div>
 
+
  <hr/>
  
 <h2 align="center">⚒️ Languages-Frameworks-Tools </h2><img src="[c0ffdf35-9867-436b-92a8-a1f00b8d2056.gif](https://lottie.host/1b8befec-5cbc-42dc-b519-5253731f7111/TfzKVtj7g3.lottie)](https://github.com/medusa66666/medusa66666/blob/main/c0ffdf35-9867-436b-92a8-a1f00b8d2056.gif)" />
-![]https://github.com/medusa66666/medusa66666/blob/main/c0ffdf35-9867-436b-92a8-a1f00b8d2056.gif
+
 
 <br/>
 <div align="center">
