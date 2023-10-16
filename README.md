@@ -1,4 +1,4 @@
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=medusa66666.medusa66666" />
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=medusa66666.medusa66666&right_color=purple" />
 
 <h1 align="center">
  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=roboto&size=37&duration=4000&pause=100&color=D06AEC&center=true&vCenter=true&random=false&width=500&height=70&lines=Hi+There!;I'm+Nadeen+Elsayed" alt="Typing SVG" /></a>
