@@ -12,12 +12,11 @@
 
 <table align="center">
 <tr border="none">
-<td width="700px" align="left">
+<td width="600px" align="left">
   
 * 🌍  I'm based in Alexandria, Egypt
 * 🖥️  See my portfolio at [MyPortfolio](http://https://www.behance.net/nadeenelsayed2)
 * ✉️  Contact me at [nadeenelsayed12403@gmail.com](mailto:nadeenelsayed12403@gmail.com)
-* 🚀  I'm currently working on [django-app](http://github.com/nadeen-elsayed/developing-apps-with-sql-and-django-final-project)
 * 🧠  I'm learning Node.js and Express.js
 * 🤝  I'm open to collaborating on interesting projects
 
