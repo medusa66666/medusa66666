@@ -22,8 +22,8 @@
 * 🤝  I'm open to collaborating on interesting projects
 
 </td>
-<td width="30%" align="center">
-<p align="center"><img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/></p>
+<td width="300px" align="center">
+<p align="center"><img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="150"/></p>
 
   
   </td>
