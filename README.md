@@ -15,7 +15,7 @@
 <td width="600px" align="left">
   
 * 🌍  I'm based in Alexandria, Egypt
-* 🖥️  See my portfolio at [MyPortfolio](http://https://www.behance.net/nadeenelsayed2)
+* 🖥️  See my portfolio at [MyPortfolio](http://https://[www.behance.net/nadeenelsayed2](https://www.behance.net/nadeenelsayed2))
 * ✉️  Contact me at [nadeenelsayed12403@gmail.com](mailto:nadeenelsayed12403@gmail.com)
 * 🧠  I'm learning Node.js, Express.js, and Redux
 * 🤝  I'm open to collaborating on interesting projects
