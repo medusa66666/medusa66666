@@ -7,7 +7,7 @@
 
 
 <h3 align="center">Full-Stack Developer | Exploring the Boundless World of Technology</h3>
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=nadeen-elsayed&label=Profile%20views&color=0e75b6&style=flat" alt="scar1109" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=nadeen-elsayed&label=Profile%20views&color=0e75b6&style=flat" alt="nadeen-elsayed" /> </p>
 
 
 <table align="center">
@@ -17,12 +17,12 @@
 * 🌍  I'm based in Alexandria, Egypt
 * 🖥️  See my portfolio at [MyPortfolio](http://https://www.behance.net/nadeenelsayed2)
 * ✉️  Contact me at [nadeenelsayed12403@gmail.com](mailto:nadeenelsayed12403@gmail.com)
-* 🧠  I'm learning Node.js and Express.js
+* 🧠  I'm learning Node.js, Express.js, and Redux
 * 🤝  I'm open to collaborating on interesting projects
 
 </td>
 <td width="300px" align="center">
-<p align="center"><img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="150"/></p>
+<p align="center"><img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="120"/></p>
 
   
   </td>
